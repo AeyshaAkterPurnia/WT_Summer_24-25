@@ -1,0 +1,12 @@
+table{
+    background-color:skyblue;
+    margin:10px 30px 60px 370px;
+}
+h1{
+    color:red;
+}
+p{
+    font-size: 25px;
+    color:red;
+    font-family:bold;
+}
